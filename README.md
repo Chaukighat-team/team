@@ -25,6 +25,6 @@
 		  <button class="button1">Home</button><a href="https://m.facebook.com/Raazoo0?ref=bookmarks">		  <button class="button1">Photos</button>
 		  <button class="button1">Videos</button>
 		  <button class="button1">Music</button>
-		  <button class="button1">Friends</button>
-		  <a href="https://www.google.com/maps/place/Chaukighat,+Mahadewa+56600,+Nepal/@26.4551766,87.6558038,11z/data=!4m2!3m1!1s0x39e583a96354484b:0x244e917972d0c0d3?hl=en">
+		  <button class="button1">Friends</button><a href="https://github.com/Chaukighat-team/my-frinds">
+  <a href="https://www.google.com/maps/place/Chaukighat,+Mahadewa+56600,+Nepal/@26.4551766,87.6558038,11z/data=!4m2!3m1!1s0x39e583a96354484b:0x244e917972d0c0d3?hl=en">
 		  <button class="button1">Home</button></a></p></center>
