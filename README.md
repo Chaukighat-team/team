@@ -29,10 +29,9 @@ p.inset {border-style: double;}
 	  <p style="border-size:100border-style: double; border-color:white;border-width: 6px;class="><button><h2><a href="https://m.facebook.com/Raazoo0?ref=bookmarks">My facebook page.</a></h2></button>
 	  <p class="double">
 
-	  <button class="button">Home</button>
+	<h><button class="button">Home</button>
 	  <button class="button">Pictur</button>
 		<button class="button">videos</button>
 		<button class="button">Music</button>
-		<button class="button">Friends</button><a href="https://www.google.com/maps/place/Chaukighat,+Mahadewa+56600,+Nepal/@26.4551766,87.6558038,11z/data=!4m2!3m1!1s0x39e583a96354484b:0x244e917972d0c0d3?hl=en"><button class="button">Maps</button>
-
+		<button class="button">Friends</button><a href="https://www.google.com/maps/place/Chaukighat,+Mahadewa+56600,+Nepal/@26.4551766,87.6558038,11z/data=!4m2!3m1!1s0x39e583a96354484b:0x244e917972d0c0d3?hl=en"><button class="button">Maps</button></h>
 <p>rajukubsh</p>
