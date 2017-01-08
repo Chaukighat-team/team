@@ -38,7 +38,7 @@ p.inset {border-style: double;}
 		<button class="button">videos</button>
 		<button class="button">Music</button>
 	  <button class="button">Friends</button>
-		<button class="button">Maps<h src="https://www.google.com/maps/place/Chaukighat,+Mahadewa+56600,+Nepal/@26.4540782,87.6563103,17z/data=!4m2!3m1!1s0x39e583a96354484b:0x244e917972d0c0d3"></button></a>		
+		<button class="button">Maps<a src="https://www.google.com/maps/place/Chaukighat,+Mahadewa+56600,+Nepal/@26.4540782,87.6563103,17z/data=!4m2!3m1!1s0x39e583a96354484b:0x244e917972d0c0d3"></a></button>		
 	</center>
   </body>
 </html>
