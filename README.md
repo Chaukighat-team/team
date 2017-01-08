@@ -15,7 +15,7 @@ p.inset {border-style: double;}
     padding: 15px 32px;    text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 26px;
+    font-size: 45px;
     cursor: pointer;
     float: center;
 }
