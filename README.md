@@ -32,7 +32,8 @@ p.inset {border-style: double;}
 	  <button class="button">Home</button>
 	  <button class="button">Pictur</button>
 		<button class="button">videos</button>
-		<button class="button">Music</button><button class="button">Friends</button>
+		<button class="button">Music</button>
+		<button class="button">Home</button> 
 		
 		
 		
