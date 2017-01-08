@@ -12,8 +12,7 @@ p.inset {border-style: double;}
     background-color: #aa00ff; /* Green */
     border: 1px solid green;
     color: white;
-    padding: 15px 32px;
-    text-align: center;
+    padding: 15px 32px;    text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 26px;
@@ -31,14 +30,14 @@ p.inset {border-style: double;}
 	  </p>
 
 
-	  <p class="double">
+	  <p1 class="double">
 
-	  <button class="button">Home</button>
+	  <button class="button">Home</button>
 	  <button class="button">Pictur</button>
 		<button class="button">videos</button>
 		<button class="button">Music</button>
 	  <button class="button">Friends</button>
-		<button class="button">Maps<a src="https://www.google.com/maps/place/Chaukighat,+Mahadewa+56600,+Nepal/@26.4540782,87.6563103,17z/data=!4m2!3m1!1s0x39e583a96354484b:0x244e917972d0c0d3"></a></button>		
-	</center>
+		<button class="button">Maps<a src="https://www.google.com/maps/place/Chaukighat,+Mahadewa+56600,+Nepal/@26.4540782,87.6563103,17z/data=!4m2!3m1!1s0x39e583a96354484b:0x244e917972d0c0d3"></a></button></p1>
+		</center>
   </body>
 </html>
