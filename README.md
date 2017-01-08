@@ -1,8 +1,19 @@
 <html>
-<body>
+	<head>
+	 <style>
+	   
+	   h1 {
+	   text-shadow:2px 2px #FF0000;
+	   }
+	   </style>
+	</head>
+	<body style="background-color: pink;">
+	  <center>
+		<h1><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png" style=" width:50px; hight:45px"><img src="https://lh3.googleusercontent.com/XEqpLoy50w3ncsFs5aa1f0gmhj4dph6f86aRR1T1D2ef0Qk39hFx834Owi_BrXugKtyY-sYJ2WM3eg=w773-h147-rw-no"><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png" style=" width: 50px; hight:45px;"></h1>
 
-<h2>taju kumar</h2>
-<img src="https://scontent.fkul2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/11390105_421710928035994_5253946239501977479_n.jpg?efg=eyJpIjoibCJ9&oh=b9677b1b6eafdf41ed30ffb42f480edc&oe=58D83AB9" alt="raju kumar.." style="width:190px;height:228px;">
-
-</body>
+		<p style="border-size:100border-style: double; border-color:white;border-width: 6px; class=">ihfifigfifohfkhfjfjfkhbkdifjfkfkfkgfkhfkckfkfig</p>
+	
+	
+	</center>
+  </body>
 </html>
