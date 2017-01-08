@@ -18,9 +18,7 @@
 .button1 {border-radius: 8px;}
 <body style="background-color: pink;">
   <center><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png"; style=" width:50px; hight:45px"><img src="https://lh3.googleusercontent.com/XEqpLoy50w3ncsFs5aa1f0gmhj4dph6f86aRR1T1D2ef0Qk39hFx834Owi_BrXugKtyY-sYJ2WM3eg=w773-h147-rw-no"><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png" style=" width: 50px; hight:45px;"></center>
-  </style>
-</head>
-</Html>
+
 <html>
 <body>
 <center><a href="https://m.facebook.com/Raazoo0?ref=bookmarks"><button>My facebook page.</button></a></center>
