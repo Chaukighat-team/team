@@ -13,13 +13,14 @@
     cursor: pointer;
     float: center;
 }
+
 .button:hover {background-color: #FF0000;}
 .button1 {border-radius: 8px;}
 </style>
 </head>
 <body style="background-color: pink;">
-  <center><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png" style=" width:50px; h ight:45px"><img src="https://lh3.googleusercontent.com/XEqpLoy50w3ncsFs5aa1f0gmhj4dph6f86aRR1T1D2ef0Qk39hFx834Owi_BrXugKtyY-sYJ2WM3eg=w773-h147-rw-no"><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png" style=" width: 50px; hight:45px;"></center>
-  <a href="https://m.facebook.com/Raazoo0?ref=bookmarks"><center><button>My facebook page.</button></center></a>
+  <center><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png"; style=" width:50px; hight:45px"><img src="https://lh3.googleusercontent.com/XEqpLoy50w3ncsFs5aa1f0gmhj4dph6f86aRR1T1D2ef0Qk39hFx834Owi_BrXugKtyY-sYJ2WM3eg=w773-h147-rw-no"><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png" style=" width: 50px; hight:45px;"></center>
+  <center><a href="https://m.facebook.com/Raazoo0?ref=bookmarks"><button>My facebook page.</button></a></center>
 	
   <center><p style="border-size:100%; border-style: double; border-color:white; border-width: 6px;">
   <button class="button1">Home</button>
